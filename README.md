@@ -8,15 +8,15 @@
 
 ### About me
 
-Final-year B.Tech CS (AI & ML) student at **SRIHER, Chennai**, incoming **MSc Embedded AI** at [IMT Atlantique, Brest](https://www.imt-atlantique.fr) (Aug 2026).
+Final-year B.Tech CS (AI & ML) student at **SRIHER, Chennai**.
 
 I build real-time perception systems that run at the edge — underwater, in the air, and in your lungs. My work lives at the intersection of deep learning, hardware constraints, and medical imaging.
 
-- 🔬 Currently finalising **AquaFusionNet** — a custom CSP · CBAM · BiFPN · FCOS architecture for underwater object detection trained on 30K+ images (mAP@0.5: 0.913)
-- 🫁 Co-authored a retinal vessel analysis pipeline (U-Net + XGBoost + SHAP) for cardiovascular risk stratification
-- 🎙️ Built **Edge-Respiratory-Net** — a 42 KB INT8 respiratory disease classifier (85% acc, 1.25ms on ARM Cortex-M4)
-- 📍 Chennai → Brest, August 2026
-- 💬 Ask me about YOLO variants, model quantization, or LaTeX
+🔬 Currently finalising AquaFusionNet — a hybrid detection architecture combining a CSP backbone, CBAM attention, and BiFPN multi-scale fusion with an anchor-free FCOS head, optimized for low-visibility underwater object detection; trained on 30K+ images (mAP@0.5: 0.913)
+🫁 Developed a retinal vessel analysis pipeline using U-Net segmentation, XGBoost classification, and SHAP explainability for cardiovascular risk stratification
+🎙️ Built Edge-Respiratory-Net — an ultra-lightweight (42 KB) INT8 respiratory disease classifier achieving 85% accuracy with 1.25 ms inference on ARM Cortex-M4
+📍 Chennai, India
+💬 Ask me about YOLO variants, model quantization, or LaTeX
 
 ---
 
